@@ -1,0 +1,8 @@
+D:\Alejandro\Certificacion2\Triangulos\Triangulos\bin\Debug\Triangulos.exe.config
+D:\Alejandro\Certificacion2\Triangulos\Triangulos\bin\Debug\Triangulos.exe
+D:\Alejandro\Certificacion2\Triangulos\Triangulos\bin\Debug\Triangulos.pdb
+D:\Alejandro\Certificacion2\Triangulos\Triangulos\obj\Debug\Triangulos.csproj.AssemblyReference.cache
+D:\Alejandro\Certificacion2\Triangulos\Triangulos\obj\Debug\Triangulos.csproj.SuggestedBindingRedirects.cache
+D:\Alejandro\Certificacion2\Triangulos\Triangulos\obj\Debug\Triangulos.csproj.CoreCompileInputs.cache
+D:\Alejandro\Certificacion2\Triangulos\Triangulos\obj\Debug\Triangulos.exe
+D:\Alejandro\Certificacion2\Triangulos\Triangulos\obj\Debug\Triangulos.pdb
