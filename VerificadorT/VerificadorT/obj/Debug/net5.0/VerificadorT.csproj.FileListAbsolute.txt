@@ -1,0 +1,16 @@
+C:\Users\gagga\OneDrive\Escritorio\Certi 2\VerificadorTriangulos\VerificadorTriangulos\VerificadorT\VerificadorT\bin\Debug\net5.0\VerificadorT.exe
+C:\Users\gagga\OneDrive\Escritorio\Certi 2\VerificadorTriangulos\VerificadorTriangulos\VerificadorT\VerificadorT\bin\Debug\net5.0\VerificadorT.deps.json
+C:\Users\gagga\OneDrive\Escritorio\Certi 2\VerificadorTriangulos\VerificadorTriangulos\VerificadorT\VerificadorT\bin\Debug\net5.0\VerificadorT.runtimeconfig.json
+C:\Users\gagga\OneDrive\Escritorio\Certi 2\VerificadorTriangulos\VerificadorTriangulos\VerificadorT\VerificadorT\bin\Debug\net5.0\VerificadorT.runtimeconfig.dev.json
+C:\Users\gagga\OneDrive\Escritorio\Certi 2\VerificadorTriangulos\VerificadorTriangulos\VerificadorT\VerificadorT\bin\Debug\net5.0\VerificadorT.dll
+C:\Users\gagga\OneDrive\Escritorio\Certi 2\VerificadorTriangulos\VerificadorTriangulos\VerificadorT\VerificadorT\bin\Debug\net5.0\VerificadorT.pdb
+C:\Users\gagga\OneDrive\Escritorio\Certi 2\VerificadorTriangulos\VerificadorTriangulos\VerificadorT\VerificadorT\obj\Debug\net5.0\VerificadorT.csproj.AssemblyReference.cache
+C:\Users\gagga\OneDrive\Escritorio\Certi 2\VerificadorTriangulos\VerificadorTriangulos\VerificadorT\VerificadorT\obj\Debug\net5.0\VerificadorT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gagga\OneDrive\Escritorio\Certi 2\VerificadorTriangulos\VerificadorTriangulos\VerificadorT\VerificadorT\obj\Debug\net5.0\VerificadorT.AssemblyInfoInputs.cache
+C:\Users\gagga\OneDrive\Escritorio\Certi 2\VerificadorTriangulos\VerificadorTriangulos\VerificadorT\VerificadorT\obj\Debug\net5.0\VerificadorT.AssemblyInfo.cs
+C:\Users\gagga\OneDrive\Escritorio\Certi 2\VerificadorTriangulos\VerificadorTriangulos\VerificadorT\VerificadorT\obj\Debug\net5.0\VerificadorT.csproj.CoreCompileInputs.cache
+C:\Users\gagga\OneDrive\Escritorio\Certi 2\VerificadorTriangulos\VerificadorTriangulos\VerificadorT\VerificadorT\obj\Debug\net5.0\VerificadorT.dll
+C:\Users\gagga\OneDrive\Escritorio\Certi 2\VerificadorTriangulos\VerificadorTriangulos\VerificadorT\VerificadorT\obj\Debug\net5.0\refint\VerificadorT.dll
+C:\Users\gagga\OneDrive\Escritorio\Certi 2\VerificadorTriangulos\VerificadorTriangulos\VerificadorT\VerificadorT\obj\Debug\net5.0\VerificadorT.pdb
+C:\Users\gagga\OneDrive\Escritorio\Certi 2\VerificadorTriangulos\VerificadorTriangulos\VerificadorT\VerificadorT\obj\Debug\net5.0\VerificadorT.genruntimeconfig.cache
+C:\Users\gagga\OneDrive\Escritorio\Certi 2\VerificadorTriangulos\VerificadorTriangulos\VerificadorT\VerificadorT\obj\Debug\net5.0\ref\VerificadorT.dll
