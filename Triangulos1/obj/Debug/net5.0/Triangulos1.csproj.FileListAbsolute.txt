@@ -1,0 +1,15 @@
+C:\Users\nicopanozo\source\repos\Triangulos1\Triangulos1\bin\Debug\net5.0\Triangulos1.exe
+C:\Users\nicopanozo\source\repos\Triangulos1\Triangulos1\bin\Debug\net5.0\Triangulos1.deps.json
+C:\Users\nicopanozo\source\repos\Triangulos1\Triangulos1\bin\Debug\net5.0\Triangulos1.runtimeconfig.json
+C:\Users\nicopanozo\source\repos\Triangulos1\Triangulos1\bin\Debug\net5.0\Triangulos1.runtimeconfig.dev.json
+C:\Users\nicopanozo\source\repos\Triangulos1\Triangulos1\bin\Debug\net5.0\Triangulos1.dll
+C:\Users\nicopanozo\source\repos\Triangulos1\Triangulos1\bin\Debug\net5.0\ref\Triangulos1.dll
+C:\Users\nicopanozo\source\repos\Triangulos1\Triangulos1\bin\Debug\net5.0\Triangulos1.pdb
+C:\Users\nicopanozo\source\repos\Triangulos1\Triangulos1\obj\Debug\net5.0\Triangulos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicopanozo\source\repos\Triangulos1\Triangulos1\obj\Debug\net5.0\Triangulos1.AssemblyInfoInputs.cache
+C:\Users\nicopanozo\source\repos\Triangulos1\Triangulos1\obj\Debug\net5.0\Triangulos1.AssemblyInfo.cs
+C:\Users\nicopanozo\source\repos\Triangulos1\Triangulos1\obj\Debug\net5.0\Triangulos1.csproj.CoreCompileInputs.cache
+C:\Users\nicopanozo\source\repos\Triangulos1\Triangulos1\obj\Debug\net5.0\Triangulos1.dll
+C:\Users\nicopanozo\source\repos\Triangulos1\Triangulos1\obj\Debug\net5.0\ref\Triangulos1.dll
+C:\Users\nicopanozo\source\repos\Triangulos1\Triangulos1\obj\Debug\net5.0\Triangulos1.pdb
+C:\Users\nicopanozo\source\repos\Triangulos1\Triangulos1\obj\Debug\net5.0\Triangulos1.genruntimeconfig.cache
