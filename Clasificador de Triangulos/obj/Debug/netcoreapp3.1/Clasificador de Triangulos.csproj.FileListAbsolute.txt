@@ -1,0 +1,14 @@
+D:\UNIVERSIDAD\Sistemas Operativos\Clasificador de Triangulos\bin\Debug\netcoreapp3.1\Clasificador de Triangulos.exe
+D:\UNIVERSIDAD\Sistemas Operativos\Clasificador de Triangulos\bin\Debug\netcoreapp3.1\Clasificador de Triangulos.deps.json
+D:\UNIVERSIDAD\Sistemas Operativos\Clasificador de Triangulos\bin\Debug\netcoreapp3.1\Clasificador de Triangulos.runtimeconfig.json
+D:\UNIVERSIDAD\Sistemas Operativos\Clasificador de Triangulos\bin\Debug\netcoreapp3.1\Clasificador de Triangulos.runtimeconfig.dev.json
+D:\UNIVERSIDAD\Sistemas Operativos\Clasificador de Triangulos\bin\Debug\netcoreapp3.1\Clasificador de Triangulos.dll
+D:\UNIVERSIDAD\Sistemas Operativos\Clasificador de Triangulos\bin\Debug\netcoreapp3.1\Clasificador de Triangulos.pdb
+D:\UNIVERSIDAD\Sistemas Operativos\Clasificador de Triangulos\obj\Debug\netcoreapp3.1\Clasificador de Triangulos.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\Sistemas Operativos\Clasificador de Triangulos\obj\Debug\netcoreapp3.1\Clasificador de Triangulos.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSIDAD\Sistemas Operativos\Clasificador de Triangulos\obj\Debug\netcoreapp3.1\Clasificador de Triangulos.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\Sistemas Operativos\Clasificador de Triangulos\obj\Debug\netcoreapp3.1\Clasificador de Triangulos.AssemblyInfo.cs
+D:\UNIVERSIDAD\Sistemas Operativos\Clasificador de Triangulos\obj\Debug\netcoreapp3.1\Clasificador de Triangulos.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Sistemas Operativos\Clasificador de Triangulos\obj\Debug\netcoreapp3.1\Clasificador de Triangulos.dll
+D:\UNIVERSIDAD\Sistemas Operativos\Clasificador de Triangulos\obj\Debug\netcoreapp3.1\Clasificador de Triangulos.pdb
+D:\UNIVERSIDAD\Sistemas Operativos\Clasificador de Triangulos\obj\Debug\netcoreapp3.1\Clasificador de Triangulos.genruntimeconfig.cache
