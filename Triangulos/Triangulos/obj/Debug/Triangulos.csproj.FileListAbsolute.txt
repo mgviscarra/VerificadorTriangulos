@@ -1,0 +1,7 @@
+C:\Users\Usuario 64\Desktop\CERTI2\VerificadorTriangulos\Triangulos\Triangulos\bin\Debug\Triangulos.exe.config
+C:\Users\Usuario 64\Desktop\CERTI2\VerificadorTriangulos\Triangulos\Triangulos\bin\Debug\Triangulos.exe
+C:\Users\Usuario 64\Desktop\CERTI2\VerificadorTriangulos\Triangulos\Triangulos\bin\Debug\Triangulos.pdb
+C:\Users\Usuario 64\Desktop\CERTI2\VerificadorTriangulos\Triangulos\Triangulos\obj\Debug\Triangulos.csproj.AssemblyReference.cache
+C:\Users\Usuario 64\Desktop\CERTI2\VerificadorTriangulos\Triangulos\Triangulos\obj\Debug\Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario 64\Desktop\CERTI2\VerificadorTriangulos\Triangulos\Triangulos\obj\Debug\Triangulos.exe
+C:\Users\Usuario 64\Desktop\CERTI2\VerificadorTriangulos\Triangulos\Triangulos\obj\Debug\Triangulos.pdb
