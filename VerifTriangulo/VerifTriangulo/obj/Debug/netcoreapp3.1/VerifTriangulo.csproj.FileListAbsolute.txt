@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\bin\Debug\netcoreapp3.1\VerifTriangulo.exe
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\bin\Debug\netcoreapp3.1\VerifTriangulo.deps.json
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\bin\Debug\netcoreapp3.1\VerifTriangulo.runtimeconfig.json
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\bin\Debug\netcoreapp3.1\VerifTriangulo.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\bin\Debug\netcoreapp3.1\VerifTriangulo.dll
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\bin\Debug\netcoreapp3.1\VerifTriangulo.pdb
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\obj\Debug\netcoreapp3.1\VerifTriangulo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\obj\Debug\netcoreapp3.1\VerifTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\obj\Debug\netcoreapp3.1\VerifTriangulo.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\obj\Debug\netcoreapp3.1\VerifTriangulo.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\obj\Debug\netcoreapp3.1\VerifTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\obj\Debug\netcoreapp3.1\VerifTriangulo.dll
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\obj\Debug\netcoreapp3.1\VerifTriangulo.pdb
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\obj\Debug\netcoreapp3.1\VerifTriangulo.genruntimeconfig.cache
