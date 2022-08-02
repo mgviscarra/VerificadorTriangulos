@@ -1,0 +1,10 @@
+D:\certi ii\triangles\triangles\bin\Debug\triangles.exe.config
+D:\certi ii\triangles\triangles\bin\Debug\triangles.exe
+D:\certi ii\triangles\triangles\bin\Debug\triangles.pdb
+D:\certi ii\triangles\triangles\obj\Debug\triangles.csprojAssemblyReference.cache
+D:\certi ii\triangles\triangles\obj\Debug\triangles.Form1.resources
+D:\certi ii\triangles\triangles\obj\Debug\triangles.Properties.Resources.resources
+D:\certi ii\triangles\triangles\obj\Debug\triangles.csproj.GenerateResource.cache
+D:\certi ii\triangles\triangles\obj\Debug\triangles.csproj.CoreCompileInputs.cache
+D:\certi ii\triangles\triangles\obj\Debug\triangles.exe
+D:\certi ii\triangles\triangles\obj\Debug\triangles.pdb
