@@ -6,7 +6,7 @@ namespace Triangulos1
     {
         static void Main(string[] args)
         {
-            // declaracion de variables
+            // declaracion de variatttbles
             int a = 0;
             int b = 0;
             int c = 0;
@@ -31,15 +31,15 @@ namespace Triangulos1
         static string nombreMetodo(int a, int b, int c)
         {
             //primero el caso de triangulo isosceles
-            if (a == c || a == b || c == b)
-            {
-                return "El triangulo es isosceles";
-            }
-            else if (a == c && c == b)
+            if (a == b && a == c)
             {
                 return "El triangulo es equilatero";
             }
-            else if(a != c || a != b || c != b)
+            else if ((a == b && a != c) || (b == c && b != c))
+            {
+                return "El triangulo es isosceles";
+            }
+            else if(a != c && a != b && c != b)
             {
                 return "El triangulo es escaleno";
             }
