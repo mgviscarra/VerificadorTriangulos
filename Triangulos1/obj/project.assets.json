@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicopanozo\\source\\repos\\Triangulos1\\Triangulos1\\Triangulos1.csproj",
+      "projectUniqueName": "C:\\Users\\nicopanozo\\Desktop\\Certificacion2\\VerificadorTriangulos\\Triangulos1\\Triangulos1.csproj",
       "projectName": "Triangulos1",
-      "projectPath": "C:\\Users\\nicopanozo\\source\\repos\\Triangulos1\\Triangulos1\\Triangulos1.csproj",
+      "projectPath": "C:\\Users\\nicopanozo\\Desktop\\Certificacion2\\VerificadorTriangulos\\Triangulos1\\Triangulos1.csproj",
       "packagesPath": "C:\\Users\\nicopanozo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicopanozo\\source\\repos\\Triangulos1\\Triangulos1\\obj\\",
+      "outputPath": "C:\\Users\\nicopanozo\\Desktop\\Certificacion2\\VerificadorTriangulos\\Triangulos1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicopanozo\\AppData\\Roaming\\NuGet\\NuGet.Config",

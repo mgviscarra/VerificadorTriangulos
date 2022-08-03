@@ -35,11 +35,11 @@ namespace Triangulos1
             {
                 return "El triangulo es equilatero";
             }
-            else if ((a == b && a != c) || (b == c && b != c))
+            else if (a == b || a == c || c == b)
             {
                 return "El triangulo es isosceles";
             }
-            else if(a != c && a != b && c != b)
+            else if(a != b || b != c || c != a)
             {
                 return "El triangulo es escaleno";
             }
@@ -47,6 +47,7 @@ namespace Triangulos1
             {
                 return "algo salio mal";
             }
+            Console.Read();
         }
     }
 }
