@@ -24,11 +24,11 @@ namespace Triangulos_Certificacion
             }
             else if(a == b || b == c || a == c)
             {
-                repsuesta = "Es un triangulo escaleno";
+                respuesta = "Es un triangulo escaleno";
             }
             else
             {
-                repsuesta = "Es un triangulo isoceles";
+                respuesta = "Es un triangulo isoceles";
             }
 
             return respuesta;
