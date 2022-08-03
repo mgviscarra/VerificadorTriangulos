@@ -13,6 +13,7 @@ namespace Triangulos_Certificacion
         Triangulo triangulo;
 
         static void Main(string[] args)
+
         {
             Console.WriteLine("¡Bienvenid@! Ingresa los tres lados de tu triangulo:");
             Console.WriteLine("Ingresa la longitud del lado A");
