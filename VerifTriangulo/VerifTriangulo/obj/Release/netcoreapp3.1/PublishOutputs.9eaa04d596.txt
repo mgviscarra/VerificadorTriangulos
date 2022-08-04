@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\materias\Certi 2\exetriang\VerifTriangulo.exe
+C:\Users\Lenovo\Desktop\materias\Certi 2\exetriang\VerifTriangulo.dll
+C:\Users\Lenovo\Desktop\materias\Certi 2\exetriang\VerifTriangulo.deps.json
+C:\Users\Lenovo\Desktop\materias\Certi 2\exetriang\VerifTriangulo.runtimeconfig.json
+C:\Users\Lenovo\Desktop\materias\Certi 2\exetriang\VerifTriangulo.pdb

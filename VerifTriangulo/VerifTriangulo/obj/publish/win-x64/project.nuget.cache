@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JCmqILmvIyDDXI4LdAHLIlSS2aGMdNqYi49koLfhRXV8ScB2eun/Qey8b+Ve1pL/RriMRNQs10e4aau1DTKfTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\materias\\Certi 2\\VerificadorTriangulos\\VerifTriangulo\\VerifTriangulo\\VerifTriangulo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.23\\microsoft.netcore.app.runtime.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.23\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.23\\microsoft.aspnetcore.app.runtime.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\bin\publish\VerifTriangulo.exe
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\bin\publish\VerifTriangulo.dll
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\bin\publish\VerifTriangulo.deps.json
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\bin\publish\VerifTriangulo.runtimeconfig.json
+C:\Users\Lenovo\Desktop\materias\Certi 2\VerificadorTriangulos\VerifTriangulo\VerifTriangulo\bin\publish\VerifTriangulo.pdb
