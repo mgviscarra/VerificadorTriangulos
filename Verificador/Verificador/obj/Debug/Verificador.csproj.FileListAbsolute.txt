@@ -5,3 +5,14 @@ D:\Program Files\trabajos\Certi II\Trabajo1\VerificadorTriangulos\Verificador\Ve
 D:\Program Files\trabajos\Certi II\Trabajo1\VerificadorTriangulos\Verificador\Verificador\obj\Debug\Verificador.csproj.CoreCompileInputs.cache
 D:\Program Files\trabajos\Certi II\Trabajo1\VerificadorTriangulos\Verificador\Verificador\obj\Debug\Verificador.exe
 D:\Program Files\trabajos\Certi II\Trabajo1\VerificadorTriangulos\Verificador\Verificador\obj\Debug\Verificador.pdb
+D:\Program Files\trabajos\Certi II\Trabajo 1\VerificadorTriangulos\Verificador\Verificador\bin\Debug\Verificador.exe.config
+D:\Program Files\trabajos\Certi II\Trabajo 1\VerificadorTriangulos\Verificador\Verificador\bin\Debug\Verificador.exe
+D:\Program Files\trabajos\Certi II\Trabajo 1\VerificadorTriangulos\Verificador\Verificador\bin\Debug\Verificador.pdb
+D:\Program Files\trabajos\Certi II\Trabajo 1\VerificadorTriangulos\Verificador\Verificador\obj\Debug\Verificador.csproj.AssemblyReference.cache
+D:\Program Files\trabajos\Certi II\Trabajo 1\VerificadorTriangulos\Verificador\Verificador\obj\Debug\Verificador.csproj.CoreCompileInputs.cache
+D:\Program Files\trabajos\Certi II\Trabajo 1\VerificadorTriangulos\Verificador\Verificador\obj\Debug\Verificador.exe
+D:\Program Files\trabajos\Certi II\Trabajo 1\VerificadorTriangulos\Verificador\Verificador\obj\Debug\Verificador.pdb
+D:\Program Files\trabajos\Certi II\Trabajo 1\VerificadorTriangulos\Verificador\Verificador\bin\Debug\Verificador.exe.manifest
+D:\Program Files\trabajos\Certi II\Trabajo 1\VerificadorTriangulos\Verificador\Verificador\bin\Debug\Verificador.application
+D:\Program Files\trabajos\Certi II\Trabajo 1\VerificadorTriangulos\Verificador\Verificador\obj\Debug\Verificador.exe.manifest
+D:\Program Files\trabajos\Certi II\Trabajo 1\VerificadorTriangulos\Verificador\Verificador\obj\Debug\Verificador.application
