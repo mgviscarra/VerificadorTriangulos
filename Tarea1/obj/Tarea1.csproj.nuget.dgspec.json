@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universidad\\CertII\\Tarea1\\Tarea1.csproj": {}
+    "D:\\Universidad\\CertII\\archivosGit\\VerificadorTriangulos\\Tarea1\\Tarea1.csproj": {}
   },
   "projects": {
-    "D:\\Universidad\\CertII\\Tarea1\\Tarea1.csproj": {
+    "D:\\Universidad\\CertII\\archivosGit\\VerificadorTriangulos\\Tarea1\\Tarea1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidad\\CertII\\Tarea1\\Tarea1.csproj",
+        "projectUniqueName": "D:\\Universidad\\CertII\\archivosGit\\VerificadorTriangulos\\Tarea1\\Tarea1.csproj",
         "projectName": "Tarea1",
-        "projectPath": "D:\\Universidad\\CertII\\Tarea1\\Tarea1.csproj",
+        "projectPath": "D:\\Universidad\\CertII\\archivosGit\\VerificadorTriangulos\\Tarea1\\Tarea1.csproj",
         "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidad\\CertII\\Tarea1\\obj\\",
+        "outputPath": "D:\\Universidad\\CertII\\archivosGit\\VerificadorTriangulos\\Tarea1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
