@@ -50,5 +50,7 @@ namespace Triangulos
                 consultar = Console.ReadLine();
             }
         }
+
+        
     }
 }
