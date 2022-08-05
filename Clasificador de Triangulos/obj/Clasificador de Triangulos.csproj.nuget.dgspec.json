@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UNIVERSIDAD\\Sistemas Operativos\\Clasificador de Triangulos\\Clasificador de Triangulos.csproj": {}
+    "D:\\UNIVERSIDAD\\Certi\\VerificadorTriangulos\\Clasificador de Triangulos\\Clasificador de Triangulos.csproj": {}
   },
   "projects": {
-    "D:\\UNIVERSIDAD\\Sistemas Operativos\\Clasificador de Triangulos\\Clasificador de Triangulos.csproj": {
+    "D:\\UNIVERSIDAD\\Certi\\VerificadorTriangulos\\Clasificador de Triangulos\\Clasificador de Triangulos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNIVERSIDAD\\Sistemas Operativos\\Clasificador de Triangulos\\Clasificador de Triangulos.csproj",
+        "projectUniqueName": "D:\\UNIVERSIDAD\\Certi\\VerificadorTriangulos\\Clasificador de Triangulos\\Clasificador de Triangulos.csproj",
         "projectName": "Clasificador de Triangulos",
-        "projectPath": "D:\\UNIVERSIDAD\\Sistemas Operativos\\Clasificador de Triangulos\\Clasificador de Triangulos.csproj",
+        "projectPath": "D:\\UNIVERSIDAD\\Certi\\VerificadorTriangulos\\Clasificador de Triangulos\\Clasificador de Triangulos.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\UNIVERSIDAD\\Sistemas Operativos\\Clasificador de Triangulos\\obj\\",
+        "outputPath": "D:\\UNIVERSIDAD\\Certi\\VerificadorTriangulos\\Clasificador de Triangulos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,5 @@
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\Clasificador de Triangulos.exe
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\Clasificador de Triangulos.dll
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\Clasificador de Triangulos.deps.json
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\Clasificador de Triangulos.runtimeconfig.json
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\Clasificador de Triangulos.pdb

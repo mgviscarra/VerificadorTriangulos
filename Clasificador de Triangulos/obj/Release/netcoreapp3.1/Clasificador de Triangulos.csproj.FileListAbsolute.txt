@@ -1,0 +1,14 @@
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\bin\Release\netcoreapp3.1\Clasificador de Triangulos.exe
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\bin\Release\netcoreapp3.1\Clasificador de Triangulos.deps.json
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\bin\Release\netcoreapp3.1\Clasificador de Triangulos.runtimeconfig.json
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\bin\Release\netcoreapp3.1\Clasificador de Triangulos.runtimeconfig.dev.json
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\bin\Release\netcoreapp3.1\Clasificador de Triangulos.dll
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\bin\Release\netcoreapp3.1\Clasificador de Triangulos.pdb
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\obj\Release\netcoreapp3.1\Clasificador de Triangulos.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\obj\Release\netcoreapp3.1\Clasificador de Triangulos.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\obj\Release\netcoreapp3.1\Clasificador de Triangulos.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\obj\Release\netcoreapp3.1\Clasificador de Triangulos.AssemblyInfo.cs
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\obj\Release\netcoreapp3.1\Clasificador de Triangulos.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\obj\Release\netcoreapp3.1\Clasificador de Triangulos.dll
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\obj\Release\netcoreapp3.1\Clasificador de Triangulos.pdb
+D:\UNIVERSIDAD\Certi\VerificadorTriangulos\Clasificador de Triangulos\obj\Release\netcoreapp3.1\Clasificador de Triangulos.genruntimeconfig.cache
